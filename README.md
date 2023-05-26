@@ -33,9 +33,32 @@ To conduct this analysis, a dataset containing relevant information about Data S
 11. `company_size`: The median number of people that worked for the company during the year.
 
 ## Exploratory Analysis
-Firstly, a descriptive analysis of the variables available in the dataset was conducted. The most frequent job roles, the distribution of experience levels, and the relationship between experience level and company size were examined. Additionally, the average highest salaries by job title and by country, along with the percentage of employees working abroad in each country, were analyzed.
+Firstly, a descriptive analysis of the variables available in the dataset was conducted. The most frequent job roles, the distribution of experience levels, and the relationship between experience level and company size were examined. 
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/bd06b97e-c391-4b7a-bf66-2ee8cba0b097)
+
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/0256611d-7f74-47f5-8413-4e7d866f17d9)
+
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/3672e87f-8b40-40ea-9869-ec65cac58370)
+
+
+Additionally, the average highest salaries by job title and by country, along with the percentage of employees working abroad in each country, were analyzed.
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/f01bc64b-90b8-4a11-9fa0-a6749f7123e0)
+
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/028bc9a5-40c2-40b0-ae88-0dbdb228b5a6)
+
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/980579b2-427a-4dc7-b63f-1f100aead4b3)
+
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/cefcf092-8fa8-4c41-8e4a-af1d5b8655aa)
+
 
 To focus the study on the most common job roles, the dataset was reduced to those representing over 80% of the population, reducing the number of job types from 93 to 8. These job roles included: Data Engineer, Data Scientist, Data Analyst, Machine Learning Engineer, Analytics Engineer, Research Scientist, Data Science Manager, and Applied Scientist. Subsequently, the highest salaries by job title and by country were reevaluated, as well as the percentage of remote work associated with each of these job roles.
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/d9259fa1-03d0-4599-b3a9-6d304c050d48)
+
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/63a14efd-134b-456b-847b-f662dcf7ee8d)
+
+![image](https://github.com/JorgeMiGo/Data-Science-Salaries-2023/assets/127945994/d983db30-24fc-40e4-b13f-4e5c84d40621)
+
+
 
 ## Results Summary
 - Among the most frequent job roles, Data Engineer, Data Scientist, and Data Analyst stood out prominently, with the highest presence.
