@@ -71,3 +71,7 @@ To focus the study on the most common job roles, the dataset was reduced to thos
 - The only job role surpassing a remote work ratio of more than 50% was Analytics Engineer.
 
 These results provide an overview of the most common job roles and associated salaries, as well as variations in salaries by country and the prevalence of remote work in the different analyzed job roles.
+
+
+## References
+- https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
